@@ -11,13 +11,13 @@ Content
 
 Update:  Have decided to do classification using iris dataset
 
-#Objective
+# Objective
 Accurately classify flower species according to properties found in the dataset.
 
-#The Data
+# The Data
 
 
-#Outline of project plan:
+# Outline of project plan:
 1.  Explore and clean the data
 2.  Decide on a classifier 
 3.  Implement the classifier
