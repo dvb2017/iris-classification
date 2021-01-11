@@ -12,7 +12,7 @@ Content
 Update:  Have decided to do classification using iris dataset
 
 # Objective
-Accurately classify flower species according to properties found in the dataset.
+Accurately classify flower species according to properties found in the dataset.  Additionally, the project will explore different classifiers to analyze which ones perform better with the dataset.
 
 # The Data
 
