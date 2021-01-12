@@ -1,7 +1,7 @@
 # new-project
 Ongoing new project
 
-Work in progress
+
 
 Content
 1.  iris.csv - dataset containing iris data
@@ -15,7 +15,7 @@ Update:  Have decided to do classification using iris dataset
 Accurately classify flower species according to properties found in the dataset.  Additionally, the project will explore different classifiers to analyze which ones perform better with the dataset.
 
 # The Data
-
+The data being used for this project is quite simple and includes a few measurements for each plant as well as the species.  The measurements used are sepal length, sepal width, petal length, and petal width, all in centimeters.  There are three species present in the dataset.
 
 # Outline of project plan:
 1.  Explore and clean the data
