@@ -32,6 +32,14 @@ Types of algos to use
 4. Naive Bayes
 
 
+
 Evaluation methods
 1. Precision and recall %  - this should be shown with a decision matrix
 2. ROC curve
+
+General layout of results section
+1.  List accuracy and precision values for each algorithm
+2.  Compare these values
+3.  Present ROC curve for each algo - these can all be on the same graph
+4.  Rank the algorithms according to which one has the best results
+5.  Show confusion matrix for top one or two results
