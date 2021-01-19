@@ -25,4 +25,8 @@ The data being used for this project is quite simple and includes a few measurem
 5.  Create charts that are helpful in examining the data/results
 5.  Summarize findings, write a readme file containing results
 
-Types of algo to use 
+Types of algos to use 
+1. decision tree
+2. random forest
+3. k-NN
+4. Naive Bayes
