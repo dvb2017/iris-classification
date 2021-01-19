@@ -33,5 +33,5 @@ Types of algos to use
 
 
 Evaluation methods
-1. Precision and recall %
+1. Precision and recall %  - this should be shown with a decision matrix
 2. ROC curve
