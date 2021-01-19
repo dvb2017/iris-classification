@@ -30,3 +30,8 @@ Types of algos to use
 2. random forest
 3. k-NN
 4. Naive Bayes
+
+
+Evaluation methods
+1. Precision and recall %
+2. ROC curve
