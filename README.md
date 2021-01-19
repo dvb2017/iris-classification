@@ -24,3 +24,5 @@ The data being used for this project is quite simple and includes a few measurem
 4.  Test the results
 5.  Create charts that are helpful in examining the data/results
 5.  Summarize findings, write a readme file containing results
+
+Types of algo to use 
